@@ -12,3 +12,5 @@
 ## Big-O gösterimini yazınız.
 
 ### 1- *O[nlogn]*
+
+[Merge Sort Project](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/merge-sort-proje)
