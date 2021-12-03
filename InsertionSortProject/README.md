@@ -15,8 +15,8 @@
 ## Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 1- *Best case:2*<br/>
-   *Average case: 16 ve 18*<br/>
-   *Worst case: 27*
+2- *Average case: 16 ve 18*<br/>
+3- *Worst case: 27*
 
 
 ## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
